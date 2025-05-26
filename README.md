@@ -44,3 +44,7 @@ What are the behavioral patterns of customers when grouped by monthly cohorts?
 - The analysis revealed clear customer retention patterns and monthly behaviors that can help improve marketing and sales strategies.
 - The first cohort has the highest retantion rate.
 - There are some impórtant customers that are inactive and can be important to understand or mnake specific campaigns
+
+### Tableau Dashboard
+You can explore the interactive dashboard with all the visualizations here:
+[Tableau Dashboard: Customer Cohort Analysis](https://public.tableau.com/app/profile/vinicius.giacomini.frantz/viz/Cohort_analysis_17480910712760/Painel1)
