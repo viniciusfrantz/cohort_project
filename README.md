@@ -5,7 +5,7 @@ A cohort is a group of people who share a common trait during a specific time pe
 It helps track and compare customer behavior over time, especially retention.
 
 ## Data Used  
-I use the "UCI Online Retail Dataset," which has about 1 year of transaction data from a UK online store (2010-2011).  
+I use the "UCI Online Retail Dataset," which has about 1 year of transaction data from a UK online store (2009-2010).  
 There are around 525,000 rows.
 
 ## Business Question  
