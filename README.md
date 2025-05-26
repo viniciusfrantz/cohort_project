@@ -1,4 +1,3 @@
-# cohort_analysis# cohort_project
 # Customer Cohort Analysis
 
 ## What is a Cohort?  
